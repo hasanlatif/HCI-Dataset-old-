@@ -8,8 +8,9 @@ Download Link: http://tiny.cc/HCI-OLD
 
 # Note:
   * This is not the official distribution of HCI-Dataset(old).
-  * only script for  reading the lightfield belongs to me.
+  * only script for  reading the lightfield belongs to me(i.e hasan latif).
   * Use it at your own risk.I tried my best to share the original HCI- Lightfield dataset(old).
+  * Moreover you could contact me via email at hasanlateef@outlook.com
   
   
   
