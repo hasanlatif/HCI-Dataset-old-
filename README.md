@@ -1,5 +1,7 @@
 # HCI lightfield dataset(Old)
+ * Script reads the dataset files  and save the image in '.JPG'. 
  
+ *  Modify the script varibles like 'path'  etc. as per your requirements
 Download Link: http://tiny.cc/HCI-OLD
 
 ## Don't forget to cite 
