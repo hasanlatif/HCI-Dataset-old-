@@ -1,9 +1,8 @@
 # HCI lightfield dataset(Old)
- * Script 'dataset_read.py' reads the dataset files  and save the image in '.JPG'. 
- 
- *  Modify the script varibles like 'path'  etc. as per your requirements
 Download Link: http://tiny.cc/HCI-OLD
 
+* Script 'dataset_read.py' reads the dataset files  and save the image in '.JPG'. 
+*  Modify the script varibles like 'path'  etc. as per your requirements
 ## Don't forget to cite 
  * S. Wanner, S. Meister, and B. Goldluecke, "Datasets and benchmarks for densely sampled 4D light fields," International Symposium on Vision, Modeling and Visualization, pp. 1–8, 2013.
 
