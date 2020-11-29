@@ -1,5 +1,5 @@
 # HCI lightfield dataset(Old)
-Download Link: http://tiny.cc/HCI-OLD
+Download Link: http://tiny.cc/hci-old
 
 * Script 'dataset_read.py' reads the dataset files  and save the image in '.JPG'. 
 *  Modify the script varibles like 'path'  etc. as per your requirements
