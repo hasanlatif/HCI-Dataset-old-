@@ -13,7 +13,7 @@ Download Link: http://tiny.cc/hci-old
   * Moreover you could contact me via email at hasanlateef@outlook.com
 # Acknowledgement 
    
-  * Many Thanks for the [HEC, Pakistan](hec.gov.pk) for providing the cloud storage under Prime Minister Youth Program. ![Acknowledge]
-  [www.hec.gov.pk](https://hec.gov.pk/_catalogs/masterpage/HEC-UI/images/HEC-Logo.png)
+  * Many Thanks for the [HEC, Pakistan](hec.gov.pk) for providing the cloud storage under Prime Minister Youth Program. 
+  ![www.hec.gov.pk](https://hec.gov.pk/_catalogs/masterpage/HEC-UI/images/HEC-Logo.png)
   
   
