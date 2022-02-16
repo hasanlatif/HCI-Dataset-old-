@@ -11,7 +11,9 @@ Download Link: http://tiny.cc/hci-old
   * only script for  reading the lightfield belongs to me(i.e hasan latif).
   * Use it at your own risk.I tried my best to share the original HCI- Lightfield dataset(old).
   * Moreover you could contact me via email at hasanlateef@outlook.com
-  
-  
+#Acknowledgement
+  * Many Thanks for the [HEC, Pakistan](hec.gov.pk) for providing the cloud storage under Prime Minister Youth Program. 
+
+(https://hec.gov.pk/_catalogs/masterpage/HEC-UI/images/HEC-Logo.png)
   
   
