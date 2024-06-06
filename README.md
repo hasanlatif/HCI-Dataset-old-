@@ -15,5 +15,5 @@ Download Link: http://tiny.cc/hci-old
    
   * Many Thanks for the [HEC, Pakistan](https://hec.gov.pk) for providing the cloud storage under Prime Minister Youth Program. 
 
-![https://www.hec.gov.pk](https://www.hec.gov.pk/Style%20Library/HEC/images/menu-logo.png)]([https://www.hec.gov.pk]
+![https://www.hec.gov.pk](https://www.hec.gov.pk/Style%20Library/HEC/images/menu-logo.png)]
  
