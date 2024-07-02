@@ -1,4 +1,5 @@
 # HCI lightfield dataset(Old)
+
 Download Link: http://tiny.cc/hci-old
 
 * Script 'dataset_read.py' reads the dataset files  and save the image in '.JPG'. 
@@ -13,7 +14,4 @@ Download Link: http://tiny.cc/hci-old
   * Moreover you could contact me via email at hasanlateef@outlook.com
 # Acknowledgement 
    
-  * Many Thanks for the [HEC, Pakistan](https://hec.gov.pk) for providing the cloud storage under Prime Minister Youth Program. 
-
-![https://www.hec.gov.pk](https://www.hec.gov.pk/Style\t20Library/HEC/images/menu-logo.png)]
  
